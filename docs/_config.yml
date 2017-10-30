@@ -1,0 +1,26 @@
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+title : LaGriT
+description: LaGriT is a library providing mesh generation and optimization for a variety of polyhedra and dimensions.
+
+author :
+  name : Terry Miller, Carl Gable, Nathaniel Knapp, Daniel Livingston
+  email : tamiller@lanl.gov
+  github : lanl
+
+theme: jekyll-theme-slate
+
+production_url : https://lanl.github.io/LaGriT
+base_url : https://lanl.github.io/LaGriT
+
+kramdown:
+   input: GFM
+   hard_wrap: false
+
+gems: [jekyll-sitemap]
+
+plugins:
+  - jekyll-sitemap
+
+
