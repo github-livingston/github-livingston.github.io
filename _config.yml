@@ -9,10 +9,10 @@ author :
   email : tamiller@lanl.gov
   github : lanl
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
-production_url : https://lanl.github.io/LaGriT
-base_url : https://lanl.github.io/LaGriT
+production_url : https://github-livingston.github.io
+base_url : https://github-livingston.github.io
 
 kramdown:
    input: GFM
